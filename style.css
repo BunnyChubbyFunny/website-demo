@@ -1,0 +1,12 @@
+    @media (min-width: 1200px) {
+      .container {
+        max-width: 970px;
+      }
+    }
+    #logo img {
+      width: 80px;
+    }
+    .footer-icon {
+      width: 24px;
+      margin-right: 8px;
+    }
